@@ -11,3 +11,42 @@
 a:hover {
     text-decoration: underline;
 }
+
+.google-word {
+    text-align: center;
+    font-size: 90px;
+    font-family: sans-serif;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.google-word-advanced-search {
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.first-g {
+    color: #4285F4;
+}
+
+.second-g {
+    color: #4285F4;
+}
+
+.first-o {
+    color: #DB4437;
+}
+
+.second-o {
+    color: #F4B400;
+}
+
+.letter-l {
+    color: #0F9D58;
+}
+
+.letter-e {
+    color: #DB4437;
+}
