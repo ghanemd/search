@@ -20,6 +20,14 @@ a:hover {
     font-weight: bold;
 }
 
+.images-word {
+    text-align: center;
+    margin-left: 250px;
+    margin-top: -30px;
+    color: #4285F4;
+    font-size: 18px;
+}
+
 .google-word-advanced-search {
     font-size: 25px;
     font-family: sans-serif;
@@ -34,26 +42,14 @@ a:hover {
     margin: 30px;
 }
 
-.first-g {
-    color: #4285F4;
-}
+.first-g { color: #4285F4; }
 
-.second-g {
-    color: #4285F4;
-}
+.second-g { color: #4285F4; }
 
-.first-o {
-    color: #DB4437;
-}
+.first-o { color: #DB4437; }
 
-.second-o {
-    color: #F4B400;
-}
+.second-o { color: #F4B400; }
 
-.letter-l {
-    color: #0F9D58;
-}
+.letter-l { color: #0F9D58; }
 
-.letter-e {
-    color: #DB4437;
-}
+.letter-e { color: #DB4437; }
