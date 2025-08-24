@@ -27,6 +27,13 @@ a:hover {
     margin-left: 10px;
 }
 
+.advanced-search-word {
+    color: #d1483c;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin: 30px;
+}
+
 .first-g {
     color: #4285F4;
 }
