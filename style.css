@@ -53,3 +53,18 @@ a:hover {
 .letter-l { color: #0F9D58; }
 
 .letter-e { color: #DB4437; }
+
+.search-form {
+    text-align: center;
+}
+
+.search-bar-container {
+    margin: 30px;
+}
+
+.search-bar {
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #000000;
+    width: 400px;
+}
