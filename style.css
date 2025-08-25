@@ -68,3 +68,19 @@ a:hover {
     border: 1px solid #000000;
     width: 400px;
 }
+
+.google-search-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
+
+.feeling-lucky-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
