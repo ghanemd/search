@@ -22,17 +22,35 @@
         </div>
         <hr>
 
-        <p>Find Pages with ...</p>
+        <div class="find-pages-text">
+            Find Pages with ...
+        </div>
+
         <form action="https://www.google.ca/search">     
-            <label>all theses words:</label>
-            <input type="text" name="as_q"><br>
-            <label>this exact word or phrase:</label>
-            <input type="text" name="as_epq"><br>
-            <label>any of these words:</label>
-            <input type="text" name="as_oq"><br>
-            <label>none of these words:</label>
-            <input type="text" name="as_eq">
-            <input type="submit" value="Advanced Search">
+
+            <div>
+                <div class="label-text-container">
+                    <label class="label-text">all theses words:</label>
+                    <input type="text" name="as_q"><br>
+                </div>
+                <div class="label-text-container">
+                    <label class="label-text">this exact word or phrase:</label>
+                    <input type="text" name="as_epq"><br>
+                </div>
+                <div class="label-text-container">
+                    <label class="label-text">any of these words:</label>
+                    <input type="text" name="as_oq"><br>
+                </div>
+                <div class="label-text-container">
+                    <label class="label-text">none of these words:</label>
+                    <input type="text" name="as_eq">
+                </div>
+            </div>
+
+            <div class="advanced-search-button-container">
+                <input class="advanced-search-button" type="submit" value="Advanced Search">
+            </div>
+
         </form>
 
     </body>

@@ -84,3 +84,33 @@ a:hover {
     padding-bottom: 5px;
     margin: 5px;
 }
+
+.find-pages-text {
+    font-size: 20px;
+    margin: 30px;
+}
+
+.label-text {
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.label-text-container {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.advanced-search-button {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin:20px;
+    background-color: rgb(6, 140, 223);
+    color: white;
+    border: none;
+}
+
+.advanced-search-button-container {
+    text-align: right;
+}
